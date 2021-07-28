@@ -6,6 +6,10 @@
   --fourth-color: #fafafa;
 }
 
+img {
+  height: 231.4px;
+}
+
 h1,
 h2,
 h3 {
@@ -133,11 +137,6 @@ h4 {
 }
 
 .weather-paragraph {
-  display: flex;
-  margin: 30px 0;
-}
-
-.yoga-paragraph {
   display: flex;
   margin: 30px 0;
 }
